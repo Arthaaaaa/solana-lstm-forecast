@@ -173,7 +173,7 @@ HTML = """
 </div>
 
 <!-- floating animated logo gif -->
-<img src="/logo3d.gif" class="floating-logo" alt="Solana 3D Logo">
+<img src="/logo3d.gif" class="floating-logo" alt="logo3d">
 
 </body>
 </html>
